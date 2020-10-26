@@ -29,11 +29,11 @@ dummies['colo']<-'blue'
 
 umi<-c("#E0FFFF","#1954A6","yellow","gray","orange","#34a617","purple")
 
-paste2 <- function(x, y, sep = "\n") paste(x, y, sep = sep)
-tik1<- meta$annotation[1:19] %>% reduce(paste2)
-tik2<- meta$annotation[20:38] %>% reduce(paste2)
+#paste2 <- function(x, y, sep = "\n") paste(x, y, sep = sep)
+#tik1<- meta$annotation[1:19] %>% reduce(paste2)
+#tik2<- meta$annotation[20:38] %>% reduce(paste2)
 
-textframe <- data.frame(x = c(1, 1),labels = c(tik1, tik2),molecule="G11C")
+#textframe <- data.frame(x = c(1, 1),labels = c(tik1, tik2),molecule="G11C")
 
 tiff(file='synteny_1.21_comparative.tiff',units="in", width=12, height=6, res=250)
 ggplot(mg, aes(xmin = start, xmax = end, y = molecule,fill=cato,forward=direction)) +
