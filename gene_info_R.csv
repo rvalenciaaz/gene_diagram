@@ -1,0 +1,39 @@
+gene,annotation,num,cato,colo
+gene1,1. Transposase IS1380 family,1,Mobile elements,yellow
+gene2,2. Transposase IS1380 family,2,Mobile elements,yellow
+gene3,3. Hypothetical protein,3,Other genes,gray
+gene4,4. Transcriptional regulator SARP family,4,Regulatory genes,green
+gene5,5. Oxidoreductase Twin-Arg translocation signal pathway,5,Additional biosynthetic genes,lightblue
+gene6,6. Cytochrome P450,6,Additional biosynthetic genes,lightblue
+gene7,7. Hydroxylase NAD(P)-binding protein,7,Additional biosynthetic genes,lightblue
+gene8,8. Oxidoreductase FAD-binding dehydrogenase,8,Additional biosynthetic genes,lightblue
+gene9,9. MFS transporter (drug efflux pump),9,Transport-related genes,purple
+gene10,10. aldo/keto Reductase,10,Additional biosynthetic genes,lightblue
+gene11,11. Oxidoreductase FAD-binding Dehydrogenase,11,Additional biosynthetic genes,lightblue
+gene12,12. Pyridoxamine 5-phosphate oxidase,12,Additional biosynthetic genes,lightblue
+gene13,13. Hypothetical protein,13,Other genes,gray
+gene14,14. Pyridoxamine 5’-phosphate oxidase (nitroimidazol reductase),14,Additional biosynthetic genes,lightblue
+gene15,15. Methyltransferase domain-containing protein (PKS MT),15,Additional biosynthetic genes,lightblue
+gene16,16. Carminomycin 4-O methyltransferase ,16,Additional biosynthetic genes,lightblue
+gene17,17. NRPS I,17,Core biosynthetic genes,blue
+gene18,18. NRPS II,18,Core biosynthetic genes,blue
+gene19,19. NRPS III,19,Core biosynthetic genes,blue
+gene20,20. Hypothetical protein,20,Other genes,gray
+gene21,21. Metallo-hydrolase M20/M25/M40 family (amino or carboxypeptidase),21,Additional biosynthetic genes,lightblue
+gene22,22. MbtH family protein,22,Additional biosynthetic genes,blue
+gene23,23. Methyltransferase domain-containing protein (N5-Glutamine MT),23,Additional biosynthetic genes,lightblue
+gene24,24. Methyltransferase domain-contaning protein (2-keto Arg MT),24,Additional biosynthetic genes,lightblue
+gene25,25. ?/? Hydrolase (esterase) ,25,Additional biosynthetic genes,lightblue
+gene26,26. Exinuclease ABC subunit UvrA (phage resistance),26,Phage resistance,orange
+gene27,27. Methyltransferase (C20 MT),27,Additional biosynthetic genes,lightblue
+gene28,28. Prephenate dehydrogenase ,28,Additional biosynthetic genes,lightblue
+gene29,29. Methionine adenosyl transferase,29,Additional biosynthetic genes,lightblue
+gene30,30. Adenosyl homo-cysteinase,30,Additional biosynthetic genes,lightblue
+gene31,31. Hsp70 chaperone family protein,31,Additional biosynthetic genes,lightblue
+gene32,32. Site-specific integrase ,32,Mobile elements,yellow
+gene33,33. Transposase (HTH endonuclease),33,Mobile elements,yellow
+gene34,34. Hypothetical protein,34,Other genes,gray
+gene35,35. Hypothetical protein,35,Other genes,gray
+gene36,36. Transcriptional regulator HTH (DNA-binding),36,Regulatory genes,green
+gene37,37. Transposase IS701 family ,37,Mobile elements,yellow
+gene38,38. Transposase IS4/5 family,38,Mobile elements,yellow
